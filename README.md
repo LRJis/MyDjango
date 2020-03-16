@@ -1,0 +1,2 @@
+# MyDjango
+Nothing to say.
